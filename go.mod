@@ -1,6 +1,6 @@
-module github.com/itsjoniur/go-cryptomus
+module github.com/swengineer404/go-cryptomus
 
-go 1.21.3
+go 1.20
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
